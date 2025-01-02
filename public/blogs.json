@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover_img": "https://i.ibb.co.com/ZG3dNTD/software-developer-6521720-1920.jpg",
+    "title": "Mastering Front-End Development",
+    "author_name": "John Doe",
+    "author_img": "https://i.ibb.co.com/3svpKfH/ai-generated-8118606-640.png",
+    "posted_date": "2025-01-01",
+    "reading_time": 5,
+    "hashtags": ["#Frontend", "#WebDevelopment", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "cover_img": "https://i.ibb.co.com/q94hVCY/man-1839500-1920.jpg",
+    "title": "A Beginner's Guide to Tailwind CSS",
+    "author_name": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/3svpKfH/ai-generated-8118606-640.png",
+    "posted_date": "2025-01-02",
+    "reading_time": 8,
+    "hashtags": ["#TailwindCSS", "#CSS", "#WebDesign"]
+  },
+  {
+    "id": 3,
+    "cover_img": "https://i.ibb.co.com/Tt359HP/code-1839406-1920.jpg",
+    "title": "Understanding the JavaScript DOM",
+    "author_name": "Emily Johnson",
+    "author_img": "https://i.ibb.co.com/3svpKfH/ai-generated-8118606-640.png",
+    "posted_date": "2024-12-31",
+    "reading_time": 10,
+    "hashtags": ["#JavaScript", "#DOM", "#Programming"]
+  },
+  {
+    "id": 4,
+    "cover_img": "https://i.ibb.co.com/FBQZBJd/macbook-667280-1920.jpg",
+    "title": "React & Tailwind CSS for E-Commerce",
+    "author_name": "Michael Brown",
+    "author_img": "https://i.ibb.co.com/3svpKfH/ai-generated-8118606-640.png",
+    "posted_date": "2024-12-30",
+    "reading_time": 7,
+    "hashtags": ["#React", "#TailwindCSS", "#ECommerce"]
+  },
+  {
+    "id": 5,
+    "cover_img": "https://i.ibb.co.com/Npp5Mq9/binary-3725329-1920.jpg",
+    "title": "Improving English Speaking Skills Online",
+    "author_name": "Sarah Lee",
+    "author_img": "https://i.ibb.co.com/3svpKfH/ai-generated-8118606-640.png",
+    "posted_date": "2025-01-01",
+    "reading_time": 6,
+    "hashtags": ["#English", "#SpeakingSkills", "#Learning"]
+  }
+]
