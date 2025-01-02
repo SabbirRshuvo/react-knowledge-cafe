@@ -7,8 +7,12 @@ import Bookmarks from "./Layout/Bookmarks/Bookmarks";
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
   const [marked, setMarked] = useState(0);
-  const handleMarked = (time) => {
+  const handleMarked = (time, id) => {
     setMarked(marked + time);
+    const remainingBokmarks = bookmarks.filter(
+      (bookmark) => bookmark.id !== id
+    );
+    setBookmarks(remainingBokmarks);
   };
   const handleAddToMarks = (blog) => {
     const newAddToMark = [...bookmarks, blog];
